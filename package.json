@@ -1,7 +1,7 @@
 {
   "name": "ginlibs-es-query-dls",
-  "version": "0.0.25",
-  "description": "生成 es 查询 dls 的工具类",
+  "version": "1.0.0",
+  "description": "generate ES query dls",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "files": [
@@ -19,7 +19,10 @@
     "del:lib": "rm -rf lib",
     "pub": "lerna publish"
   },
-  "keywords": [],
+  "keywords": [
+    "es",
+    "dls"
+  ],
   "author": "gintamamadao",
   "license": "MIT",
   "repository": {
@@ -71,6 +74,5 @@
     "ginlibs-format": "^0.0.9",
     "ginlibs-set-key": "^0.0.9",
     "ginlibs-type-check": "^0.0.8"
-  },
-  "gitHead": "41695ee7cd51d3c2658fc8bbee01129417cf24f9"
+  }
 }

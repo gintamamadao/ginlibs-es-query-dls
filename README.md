@@ -1,8 +1,8 @@
+# ginlibs-es-query-dls
+
 [![NPM version](https://badgen.net/npm/v/ginlibs-es-query-dls)](https://www.npmjs.com/package/ginlibs-es-query-dls)
 [![NPM Weekly Downloads](https://badgen.net/npm/dw/ginlibs-es-query-dls)](https://www.npmjs.com/package/ginlibs-es-query-dls)
 [![License](https://badgen.net/npm/license/ginlibs-es-query-dls)](https://www.npmjs.com/package/ginlibs-es-query-dls)
-
-# ginlibs-es-query-dls
 
 > 生成 es 查询 dls 的工具类
 
@@ -204,11 +204,11 @@ report detail
 
 ```sh
 ----------|---------|----------|---------|---------|-------------------
-File      | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+File      | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s
 ----------|---------|----------|---------|---------|-------------------
-All files |   75.51 |    22.62 |   52.38 |   76.84 |                   
- index.ts |   53.19 |     12.5 |   28.57 |   55.56 | 35-64,71,96-114   
- leaf.ts  |   96.08 |    83.33 |     100 |      96 | 59,97             
+All files |   75.51 |    22.62 |   52.38 |   76.84 |
+ index.ts |   53.19 |     12.5 |   28.57 |   55.56 | 35-64,71,96-114
+ leaf.ts  |   96.08 |    83.33 |     100 |      96 | 59,97
 ----------|---------|----------|---------|---------|-------------------
 Test Suites: 1 passed, 1 total
 Tests:       5 passed, 5 total
